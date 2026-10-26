@@ -1,3 +1,45 @@
+Fullstack Cardápio Digital
+1. Nome do Sistema
+Fullstack Cardápio Digital
+
+2. Objetivo do Sistema
+O objetivo do projeto é desenvolver e testar um sistema de cardápio digital que permita visualizar e consultar os produtos disponíveis em um estabelecimento.
+
+A aplicação busca facilitar o acesso às informações dos produtos, como nomes, descrições e preços, por meio de uma interface web integrada a um backend responsável pelo processamento das informações e pela comunicação com o banco de dados.
+
+O projeto também tem como finalidade proporcionar aprendizado prático sobre desenvolvimento Full Stack, integração entre frontend e backend, utilização de APIs e organização de código com Git e GitHub.
+
+3. Integrantes do Grupo
+Gustavo Brambila - 1252410024
+Arthur Costa - 12524232649
+
+4. Tecnologias Utilizadas
+Java — linguagem de programação utilizada no backend.
+Spring Boot — framework para desenvolvimento da aplicação backend e das APIs.
+PostgreSQL — banco de dados utilizado pelo projeto.
+React — biblioteca para desenvolvimento da interface web.
+TypeScript — linguagem utilizada no frontend.
+Git e GitHub — ferramentas para controle de versão e colaboração entre os integrantes.
+
+5. Como Executar o Projeto e Realizar Testes
+Pré-requisitos
+Antes de executar o projeto, é necessário ter instalado:
+
+Java, em uma versão compatível com o projeto.
+Maven, caso não seja utilizado o Maven Wrapper incluído no repositório.
+Node.js e npm.
+PostgreSQL.
+Git.
+
+
+
+
+
+
+
+
+
+
 # Cardápio Digital - Projeto Fullstack com Java Spring Boot e React
 ## Objetivo:
 Desenvolver uma aplicação **fullstack**, onde nossa **API REST** serve o frontend com os
